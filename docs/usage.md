@@ -14,3 +14,4 @@ Notes and usage details for splash.
 - link the usage section
 - add a note about the defaults
 - add a note about the defaults
+- link the usage section
